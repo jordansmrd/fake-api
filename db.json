@@ -1,87 +1,202 @@
 {
+  "posts": [
+    {
+      "id": 1,
+      "username": "jordan.ongg",
+      "avatar_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Dwayne_Johnson_2014_%28cropped%29.jpg/640px-Dwayne_Johnson_2014_%28cropped%29.jpg",
+      "image_url": "https://i.pinimg.com/736x/67/d4/ed/67d4ed03bc00b6a159b456484b54b42f.jpg",
+      "number_of_likes": 197,
+      "liked": true,
+      "bookmarked": false,
+      "caption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero dolore enim praesentium inventore asperiores sunt corporis unde dicta ipsa dolorum voluptatibus dolor, odio nobis est consequuntur labore!",
+      "comments": [
+        {
+          "username": "kenny.s",
+          "avatar_url": "https://liveboldandbloom.com/wp-content/uploads/2021/09/Untitled_design_3_1.png",
+          "comment": "nice car man"
+        },
+        {
+          "username": "jordan.ongg",
+          "avatar_url": "https://www.dmarge.com/wp-content/uploads/2021/01/dwayne-the-rock-.jpg",
+          "comment": "thanks bro"
+        },
+        {
+          "username": "test",
+          "avatar_url": "",
+          "comment": "hello boys"
+        },
+        {
+          "username": "test",
+          "avatar_url": "",
+          "comment": "hihhii"
+        },
+        {
+          "username": "test",
+          "avatar_url": "",
+          "comment": "hehehe"
+        },
+        {
+          "username": "jordan",
+          "avatar_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Dwayne_Johnson_2014_%28cropped%29.jpg/640px-Dwayne_Johnson_2014_%28cropped%29.jpg",
+          "comment": "hello"
+        },
+        {
+          "username": "heri",
+          "avatar_url": "https://parade.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTkwNTgwOTIyMDYxMTcwNTU2/john-cena-net-worth.jpg",
+          "comment": "helooo"
+        },
+        {
+          "username": "jordan.ongg",
+          "avatar_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Dwayne_Johnson_2014_%28cropped%29.jpg/640px-Dwayne_Johnson_2014_%28cropped%29.jpg",
+          "comment": "lol"
+        },
+        {
+          "username": "jordan.ongg",
+          "avatar_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Dwayne_Johnson_2014_%28cropped%29.jpg/640px-Dwayne_Johnson_2014_%28cropped%29.jpg",
+          "comment": "yg bnr bro?"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "username": "jordan.ongg",
+      "avatar_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Dwayne_Johnson_2014_%28cropped%29.jpg/640px-Dwayne_Johnson_2014_%28cropped%29.jpg",
+      "image_url": "https://preview.redd.it/aipg2jghyzp81.jpg?auto=webp&s=ec773acc4490220da7205a968b2f387942e0c828",
+      "number_of_likes": 54,
+      "bookmarked": false,
+      "liked": true,
+      "caption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero dolore enim praesentium inventore asperiores sunt corporis unde dicta ipsa dolorum voluptatibus dolor, odio nobis est consequuntur labore!",
+      "comments": [
+        {
+          "username": "test",
+          "avatar_url": "",
+          "comment": "hello boys"
+        },
+        {
+          "username": "test",
+          "avatar_url": "",
+          "comment": "nice try"
+        },
+        {
+          "username": "test",
+          "avatar_url": "",
+          "comment": "halo halo"
+        },
+        {
+          "username": "jordan",
+          "avatar_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Dwayne_Johnson_2014_%28cropped%29.jpg/640px-Dwayne_Johnson_2014_%28cropped%29.jpg",
+          "comment": "hello to you too"
+        },
+        {
+          "username": "heri",
+          "avatar_url": "https://parade.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTkwNTgwOTIyMDYxMTcwNTU2/john-cena-net-worth.jpg",
+          "comment": "hello bro"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "username": "arnold.chef",
+      "avatar_url": "https://newyorkcomedyclub.com/img/imagetest/felonious-munk-d4db0b52-main-image.jpg",
+      "image_url": "https://preview.redd.it/cwqym95n7g391.png?auto=webp&s=abbb596194dcdebed1e58bd6befc06cc7cc45ad9",
+      "number_of_likes": 102,
+      "liked": true,
+      "bookmarked": false,
+      "caption": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero dolore enim praesentium inventore asperiores sunt corporis unde dicta ipsa dolorum voluptatibus dolor, odio nobis est consequuntur labore!",
+      "comments": [
+        {
+          "username": "jordan",
+          "avatar_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Dwayne_Johnson_2014_%28cropped%29.jpg/640px-Dwayne_Johnson_2014_%28cropped%29.jpg",
+          "comment": "hello"
+        }
+      ]
+    }
+  ],
   "users": [
     {
       "id": 1,
       "username": "jordan.ongg",
       "password": "password",
       "name": "Jordan",
-      "email": "jordan@mail.com"
+      "avatar_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Dwayne_Johnson_2014_%28cropped%29.jpg/640px-Dwayne_Johnson_2014_%28cropped%29.jpg",
+      "desc": "Laundry Shoe & Bag ll Unyellowing ll Repair ll Repaint ll Sole Protect"
     },
     {
       "id": 2,
-      "email": "jordan@mail.com",
-      "username": "jordan2",
-      "password": "Password",
-      "name": "jordan"
-    }
-  ],
-  "products": [
-    {
-      "id": 1,
-      "product_name": "SSR MS3",
-      "img_url": "https://sr20.driftworks.com/media/catalog/product/cache/d51c85e004305c0d39cf9586ba8c5789/s/s/ssr-professor-ms3-close-up.jpg",
-      "Harga": 33000000,
-      "Lokasi": "Batam",
-      "Rating": 3.5,
-      "Terjual": 5
-    },
-    {
-      "id": 2,
-      "product_name": "TE37",
-      "img_url": "https://images.fitmentindustries.com/web-compressed/1545227-9-2020-gr-supra-toyota-premium-air-lift-performance-air-suspension-volk-te37-ultra-black.jpg",
-      "Harga": 33000000,
-      "Lokasi": "Batam",
-      "Rating": 3.5,
-      "Terjual": 5
+      "username": "heri",
+      "password": "password",
+      "name": "Heriyanto",
+      "avatar_url": "https://parade.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTkwNTgwOTIyMDYxMTcwNTU2/john-cena-net-worth.jpg",
+      "desc": "Hello my name is heri"
     },
     {
       "id": 3,
-      "product_name": "BBS LM",
-      "img_url": "https://images.tokopedia.net/img/cache/700/VqbcmM/2020/9/8/c410e65b-2db5-460f-8c7d-121a733f0c6f.jpg",
-      "Harga": 73000000,
-      "Lokasi": "JOGA",
-      "Rating": 3.5,
-      "Terjual": 5
+      "username": "bruno",
+      "password": "password",
+      "name": "Bruno Mars",
+      "avatar_url": "https://media.resources.festicket.com/www/artists/BrunoMars_New.jpg",
+      "desc": ""
     },
     {
-      "id": 4,
-      "product_name": "BBS LMR",
-      "img_url": "https://s.yimg.com/aah/wheelsperformancecom/red-bmw-m3-f80-bbs-lm-r-multi-piece-forged-wheels-13.gif",
-      "Harga": 63000000,
-      "Lokasi": "Batam",
-      "Rating": 3.5,
-      "Terjual": 5
+      "username": "jordansmrd",
+      "password": "password",
+      "email": "a@mail.com",
+      "name": "Jordan Sumardi",
+      "id": 4
     },
     {
       "id": 5,
-      "product_name": "SSR SP1",
-      "img_url": "https://cdn.shopify.com/s/files/1/0459/0478/9656/products/2_f04fa5f4-d0ca-4bfe-9363-7d794b9922c4_1024x1024@2x.jpg?v=1653275394",
-      "Harga": 33000000,
-      "Lokasi": "Batam",
-      "Rating": 3.5,
-      "Terjual": 5
+      "username": "raul.fernandex",
+      "password": "password",
+      "email": "a@mail.com",
+      "name": "raul",
+      "avatar_url": "",
+      "desc": ""
     },
     {
       "id": 6,
-      "product_name": "BBS RS02",
-      "img_url": "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/b6/b6dcc6d2-c580-4956-bdf1-c84c78739207?rule=$_20.JPG",
-      "Harga": 8000000,
-      "Lokasi": "Batam",
-      "Rating": 3.5,
-      "Terjual": 5
+      "username": "asdsad",
+      "password": "sadsada",
+      "email": "asdsa",
+      "name": "sadsad",
+      "avatar_url": "",
+      "desc": ""
     },
     {
       "id": 7,
-      "email": "",
-      "username": "",
-      "password": "",
-      "name": "",
-      "img_url": "https://i.pinimg.com/736x/c6/72/d7/c672d7585dd70541badb4aef1bde1d66.jpg",
-      "product_name": "BBS RS GT",
-      "Harga": "350000000",
-      "Lokasi": "Jakarta",
-      "Rating": "5",
-      "Terjual": "10"
+      "username": "anakbaru",
+      "password": "password",
+      "email": "ab@mail.com",
+      "name": "anak baru",
+      "avatar_url": "",
+      "desc": ""
+    },
+    {
+      "id": 8,
+      "username": "anakbaru2",
+      "password": "password",
+      "email": "anakbaru2@mail.com",
+      "name": "anak baru banget",
+      "avatar_url": "",
+      "desc": ""
+    },
+    {
+      "id": 9,
+      "email": "jordan@mail.com",
+      "username": "Joe123456789",
+      "password": "Password",
+      "name": "joe",
+      "avatar_url": "",
+      "desc": ""
+    },
+    {
+      "id": 10,
+      "email": "jordan@mail.com",
+      "username": "Jordan123456",
+      "password": "Password",
+      "name": "jordan",
+      "avatar_url": "",
+      "desc": ""
     }
   ]
 }
