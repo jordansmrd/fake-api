@@ -1,0 +1,606 @@
+{
+ "home_playlist": [
+  {
+   "id": 1,
+   "title": "Made For Jordan Ong",
+   "data": [
+    {
+     "imgURL": "https://dailymix-images.scdn.co/v2/img/ab6761610000e5eb016288add2edec88ecd87e83/1/en/default",
+     "playlist": "Daily Mix 1",
+     "desc": "Sammy Simorangkir, Juicy Luicy, Mahalini and more",
+     "list": [
+      {
+       "title": "Sial",
+       "singer": "Mahalini",
+       "src": "MAHALINI - SIAL.mp3",
+       "img": "https://i.scdn.co/image/ab6761610000e5ebb8333468abeb2e461d1ab5ea"
+      },
+      {
+       "title": "Tak Mampu Pergi",
+       "singer": "Sammy Simorangkir",
+       "src": "Sammy Simorangkir - Tak Mampu Pergi.mp3",
+       "img": "https://i.scdn.co/image/ab6761610000e5eb016288add2edec88ecd87e83"
+      },
+      {
+       "title": "Tanpa Tergesa",
+       "singer": "Juicy Luicy",
+       "src": "Juicy Luicy - Tanpa Tergesa.mp3",
+       "img": "https://i.scdn.co/image/ab67616d0000b273895ef71f3b84221075ac06f5"
+      }
+     ]
+    },
+    {
+     "imgURL": "https://dailymix-images.scdn.co/v2/img/ab6761610000e5ebcb7edb7ffe58926fbee7e041/2/en/default",
+     "playlist": "Daily Mix 2",
+     "desc": "Marcell, Vierra, Kahitna and more",
+     "list": [
+      {
+       "title": "Jangan Pernah Berubah",
+       "singer": "Marcell",
+       "src": "Jangan Pernah Berubah - Marcell.mp3",
+       "img": "https://i.scdn.co/image/ab6761610000e5ebcb7edb7ffe58926fbee7e041"
+      },
+      {
+       "title": "Jadi Yang Kuinginkan",
+       "singer": "Vierra",
+       "src": "VIERRA - Jadi Yang Kuinginkan.mp3",
+       "img": "https://i.scdn.co/image/ab6761610000e5ebce05aec92bc5b3e81205ff73"
+      },
+      {
+       "title": "Cantik",
+       "singer": "Kahitna",
+       "src": "Kahitna - Cantik.mp3",
+       "img": "https://i.scdn.co/image/ab6761610000e5ebe8b3eb71335b453ac794067e"
+      }
+     ]
+    },
+    {
+     "imgURL": "https://dailymix-images.scdn.co/v2/img/ab6761610000e5eb573688a684f3aac2cf6b7994/3/en/default",
+     "playlist": "Daily Mix 3",
+     "desc": "Yura Yunita, Tulus, Raisa and more",
+     "list": [
+      {
+       "title": "Cinta dan Rahasia",
+       "singer": "Yura Yunita",
+       "src": "Yura Yunita ft. Glenn Fredly - Cinta dan Rahasia.mp3",
+       "img": "https://i.scdn.co/image/ab67616d00001e02e5c8498071733eae683d7530"
+      },
+      {
+       "title": "1000 Tahun Lamanya",
+       "singer": "Tulus",
+       "src": "Tulus - 1000 Tahun Lamanya.mp3",
+       "img": "https://i.scdn.co/image/ab67616d00001e0271c65edbeed32af70b900637"
+      },
+      {
+       "title": "Terjebak Nostalgia",
+       "singer": "Raisa",
+       "src": "RAISA - Terjebak Nostalgia.mp3",
+       "img": "https://i.scdn.co/image/ab67616d00001e02f018e2376d8060e0ba1112ab"
+      }
+     ]
+    },
+    {
+     "imgURL": "https://dailymix-images.scdn.co/v2/img/ab6761610000e5eb6f9004573a721336b343bbd3/4/en/default",
+     "playlist": "Daily Mix 4",
+     "desc": "Novo Amor, Claire Rosinkranz, Cigarette After Sex and more",
+     "list": [
+      {
+       "title": "State Lines",
+       "singer": "Novo Amor",
+       "src": "Novo Amor  State Lines.mp3",
+       "img": "https://i.scdn.co/image/ab6761610000e5eb6f9004573a721336b343bbd3"
+      },
+      {
+       "title": "Never Goes Away",
+       "singer": "Claire Rosinkranz",
+       "src": "Claire Rosinkranz  Never Goes Away.mp3",
+       "img": "https://i.scdn.co/image/ab67616d0000b273b9545d8ce4fb2ed64a15efee"
+      },
+      {
+       "title": "Apocalypse",
+       "singer": "Cigarettes After Sex",
+       "src": "Apocalypse - Cigarettes After Sex.mp3",
+       "img": "https://i.scdn.co/image/ab67616d0000b2736b701428ed4c6e053902174a"
+      }
+     ]
+    },
+    {
+     "imgURL": "https://dailymix-images.scdn.co/v2/img/ab67616d0000b27354270208627aa8061a8abe21/5/en/default",
+     "playlist": "Daily Mix 5",
+     "desc": "Sheila On 7, Reality Club, Dewa 19 and more",
+     "list": [
+      {
+       "title": "Mudah Saja",
+       "singer": "Sheila On 7",
+       "src": "Sheila On 7 - Mudah Saja.mp3",
+       "img": "https://i.scdn.co/image/ab67616d0000b27354270208627aa8061a8abe21"
+      },
+      {
+       "title": "Alexandra",
+       "singer": "Reality Club",
+       "src": "RealityClub-Alexandra.mp3",
+       "img": "https://i.scdn.co/image/ab67616d00001e02d5091532aed5342508c47a3b"
+      },
+      {
+       "title": "Kangen",
+       "singer": "Dewa 19",
+       "src": "Dewa 19 - Kangen.mp3",
+       "img": "https://i.scdn.co/image/72b816f7e8fe58802de79e6d8903f1ca035493c3"
+      }
+     ]
+    },
+    {
+     "imgURL": "https://dailymix-images.scdn.co/v2/img/ab6761610000e5ebdc38b5594bd39e4447c0eb0b/6/en/default",
+     "playlist": "Daily Mix 6",
+     "desc": "Tim Wynn, James Hannigan, Frank Klepacki and more",
+     "list": [
+      {
+       "title": "Rock and Awe",
+       "singer": "Tim Wynn",
+       "src": "Rock and Awe.mp3",
+       "img": "https://i.scdn.co/image/ab6761610000e5ebdc38b5594bd39e4447c0eb0b"
+      },
+      {
+       "title": "C&C RED ALERT",
+       "singer": "James Hannigan",
+       "src": "C&C RED ALERT 3 OST  (JAMES HANNIGAN).mp3",
+       "img": "https://i.scdn.co/image/ab6761610000e5ebc3671bacc45c71aaa8ed86de"
+      },
+      {
+       "title": "Hell March",
+       "singer": "Frank Klepacki",
+       "src": "HM2.mp3",
+       "img": "https://i.scdn.co/image/ab67616d00001e023c7dfb40d188ce9bbc4699c8"
+      }
+     ]
+    },
+    {
+     "imgURL": "https://newjams-images.scdn.co/image/ab67647800003f8a/dt/v3/release-radar/ab6761610000e5ebcb7edb7ffe58926fbee7e041/en",
+     "playlist": "Release Radar",
+     "desc": "Catch all the latest music from artist yo...",
+     "list": [
+      {
+       "title": "State Lines",
+       "singer": "Novo Amor",
+       "src": "Novo Amor  State Lines.mp3",
+       "img": "https://i.scdn.co/image/ab6761610000e5eb6f9004573a721336b343bbd3"
+      },
+      {
+       "title": "Never Goes Away",
+       "singer": "Claire Rosinkranz",
+       "src": "Claire Rosinkranz  Never Goes Away.mp3",
+       "img": "https://i.scdn.co/image/ab67616d0000b273b9545d8ce4fb2ed64a15efee"
+      },
+      {
+       "title": "Hell March",
+       "singer": "Frank Klepacki",
+       "src": "HM2.mp3",
+       "img": "https://i.scdn.co/image/ab67616d00001e023c7dfb40d188ce9bbc4699c8"
+      },
+      {
+       "title": "Cinta dan Rahasia",
+       "singer": "Yura Yunita",
+       "src": "Yura Yunita ft. Glenn Fredly - Cinta dan Rahasia.mp3",
+       "img": "https://i.scdn.co/image/ab67616d00001e02e5c8498071733eae683d7530"
+      },
+      {
+       "title": "1000 Tahun Lamanya",
+       "singer": "Tulus",
+       "src": "Tulus - 1000 Tahun Lamanya.mp3",
+       "img": "https://i.scdn.co/image/ab67616d00001e0271c65edbeed32af70b900637"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Recently played",
+   "data": [
+    {
+     "imgURL": "https://i.scdn.co/image/ab67616d00001e0222b392532bd082d33d74500b",
+     "playlist": "Slow Down",
+     "desc": "Mac Ayres",
+     "list": [
+      {
+       "title": "Easy",
+       "singer": "Mac Ayres",
+       "src": "Mac Ayres - Easy.mp3",
+       "img": "https://i.scdn.co/image/ab67616d0000b27322b392532bd082d33d74500b"
+      },
+      {
+       "title": "Slow Down",
+       "singer": "Mac Ayres",
+       "src": "Slow Down.mp3",
+       "img": "https://i.scdn.co/image/ab67616d0000b27322b392532bd082d33d74500b"
+      }
+     ]
+    },
+    {
+     "imgURL": "https://i.scdn.co/image/ab67706c0000da84fc2f22bf124e5e521b769ab3",
+     "playlist": "Wangan Midnight",
+     "desc": "By scaffamber",
+     "list": [
+      {
+       "title": "Entry (Maxi6 Version)",
+       "singer": "Wangan Midnight",
+       "src": "Entry (Maxi6 Version) - Wangan Midnight Maximum Tune 6 OST.mp3",
+       "img": "https://i.scdn.co/image/ab67706c0000da84fc2f22bf124e5e521b769ab3"
+      },
+      {
+       "title": "m.o.v.e",
+       "singer": "Wangan Midnight",
+       "src": "m.o.v.e  Rage your dream.mp3",
+       "img": "https://i.scdn.co/image/ab67706c0000da84fc2f22bf124e5e521b769ab3"
+      }
+     ]
+    },
+    {
+     "imgURL": "https://i.scdn.co/image/ab67706c0000da843ddee4dc14db61b448e4f9c2",
+     "playlist": "Car Music 2023",
+     "desc": "The Best Electronic Dance Music 2023",
+     "list": [
+      {
+       "title": "In This World",
+       "singer": "Moby",
+       "src": "Moby - 'In This World'.mp3",
+       "img": "https://i.scdn.co/image/ab67616d0000b27373b063d18cd9be91eb12284a"
+      },
+      {
+       "title": "Porcelain",
+       "singer": "Moby",
+       "src": "Moby - 'Porcelain'.mp3",
+       "img": "https://i.scdn.co/image/ab67616d0000b27373b063d18cd9be91eb12284a"
+      }
+     ]
+    },
+    {
+     "imgURL": "https://i.scdn.co/image/ab67706c0000da84a0917930e16e37fb8987a8a9",
+     "playlist": "Electronic Music",
+     "desc": "Dance Space",
+     "list": [
+      {
+       "title": "ROCKSTAR",
+       "singer": "ILKAY SENCAN & DYNORO",
+       "src": "ILKAY SENCAN & DYNORO - ROCKSTAR.mp3",
+       "img": "https://i.scdn.co/image/ab67616d0000b273a1d56525c3380e5cbda5f48f"
+      },
+      {
+       "title": "In My Mind",
+       "singer": "Dynoro & Gigi DAgostino",
+       "src": "Dynoro & Gigi DAgostino - In My Mind.mp3",
+       "img": "https://i.scdn.co/image/ab67616d0000b27328a8a05c3a7ba952c7615ab9"
+      }
+     ]
+    },
+    {
+     "imgURL": "https://i.scdn.co/image/ab67706f00000002813cd93c5d73d65b7855e88c",
+     "playlist": "Puncak Klasmen",
+     "desc": "Deretan musik Indonesia terpopuler saat ini. ",
+     "list": [
+      {
+       "title": "Mudah Saja",
+       "singer": "Sheila On 7",
+       "src": "Sheila On 7 - Mudah Saja.mp3",
+       "img": "https://i.scdn.co/image/ab67616d0000b27354270208627aa8061a8abe21"
+      },
+      {
+       "title": "Alexandra",
+       "singer": "Reality Club",
+       "src": "RealityClub-Alexandra.mp3",
+       "img": "https://i.scdn.co/image/ab67616d00001e02d5091532aed5342508c47a3b"
+      },
+      {
+       "title": "Sial",
+       "singer": "Mahalini",
+       "src": "MAHALINI - SIAL.mp3",
+       "img": "https://i.scdn.co/image/ab6761610000e5ebb8333468abeb2e461d1ab5ea"
+      }
+     ]
+    },
+    {
+     "imgURL": "https://i.scdn.co/image/ab67616d00001e02ff874602e13e9181c26e5f01",
+     "playlist": "Best Friend",
+     "desc": "Rex Orange Country",
+     "list": [
+      {
+       "title": "Best Friend",
+       "singer": "Rex Orange Country",
+       "src": "rex-best-friend.mp3",
+       "img": "https://media.kompas.tv/library/image/content_article/article_img/20221011054944.jpg"
+      },
+      {
+       "title": "Corduroy Dreams",
+       "singer": "Rex Orange Country",
+       "src": "rex-corduroy.mp3",
+       "img": "https://media.kompas.tv/library/image/content_article/article_img/20221011054944.jpg"
+      },
+      {
+       "title": "Untited",
+       "singer": "Rex Orange Country",
+       "src": "rex-corduroy.mp3",
+       "img": "https://media.kompas.tv/library/image/content_article/article_img/20221011054944.jpg"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Indie darling",
+   "data": [
+    {
+     "imgURL": "https://thisis-images.scdn.co/37i9dQZF1DZ06evO12tsHe-default.jpg",
+     "playlist": "This is Cigarettes After Sex",
+     "desc": "This is Cigarettes After Sex. The essential tracks, all in one playlist.",
+     "list": [
+      {
+       "title": "Sweet",
+       "singer": "Cigarettes After Sex",
+       "src": "Sweet - Cigarettes After Sex.mp3",
+       "img": "https://i.scdn.co/image/ab67616d0000b2736b701428ed4c6e053902174a"
+      },
+      {
+       "title": "Apocalypse",
+       "singer": "Cigarettes After Sex",
+       "src": "Apocalypse - Cigarettes After Sex.mp3",
+       "img": "https://i.scdn.co/image/ab67616d0000b2736b701428ed4c6e053902174a"
+      }
+     ]
+    },
+    {
+     "imgURL": "https://thisis-images.scdn.co/37i9dQZF1DZ06evO4nOT7i-default.jpg",
+     "playlist": "This is Rex Orange Country",
+     "desc": "This is Rex Orange Country. The essential tracks, all in one playlist.",
+     "list": [
+      {
+       "title": "Best Friend",
+       "singer": "Rex Orange Country",
+       "src": "rex-best-friend.mp3",
+       "img": "https://media.kompas.tv/library/image/content_article/article_img/20221011054944.jpg"
+      },
+      {
+       "title": "Corduroy Dreams",
+       "singer": "Rex Orange Country",
+       "src": "rex-corduroy.mp3",
+       "img": "https://media.kompas.tv/library/image/content_article/article_img/20221011054944.jpg"
+      },
+      {
+       "title": "Untited",
+       "singer": "Rex Orange Country",
+       "src": "rex-corduroy.mp3",
+       "img": "https://media.kompas.tv/library/image/content_article/article_img/20221011054944.jpg"
+      }
+     ]
+    },
+    {
+     "imgURL": "https://thisis-images.scdn.co/37i9dQZF1DZ06evO2cV1FC-default.jpg",
+     "playlist": "This is Joji",
+     "desc": "This is Joji. The essential tracks, all in one playlist.",
+     "list": [
+      {
+       "title": "Glimpse of Us",
+       "singer": "Joji",
+       "src": "Joji - Glimpse of Us.mp3",
+       "img": "https://i.scdn.co/image/ab67616d0000b27360ba1d6104d0475c7555a6b2"
+      },
+      {
+       "title": "SLOW DANCING IN THE DARK",
+       "singer": "Joji",
+       "src": "Joji - SLOW DANCING IN THE DARK.mp3",
+       "img": "https://i.scdn.co/image/ab67616d0000b27360ba1d6104d0475c7555a6b2"
+      }
+     ]
+    },
+    {
+     "imgURL": "https://thisis-images.scdn.co/37i9dQZF1DZ06evO1X6Ic8-default.jpg",
+     "playlist": "This is The 1975",
+     "desc": "This is The 1975. The essential tracks, all in one playlist.",
+     "list": [
+      {
+       "title": "Be My Mistake",
+       "singer": "The 1975",
+       "src": "The 1975 - Be My Mistake (Acoustic).mp3",
+       "img": "https://i.scdn.co/image/ab6761610000e5eb89348336354096fd4e36ca73"
+      },
+      {
+       "title": "Paris",
+       "singer": "The 1975",
+       "src": "The 1975 - Paris.mp3",
+       "img": "https://i.scdn.co/image/ab6761610000e5eb89348336354096fd4e36ca73"
+      }
+     ]
+    },
+    {
+     "imgURL": "https://i.scdn.co/image/ab67706f00000002ff70e5bf13de5ca23898f36a",
+     "playlist": "This is HONNE",
+     "desc": "Love HONNE? This is definitely for you!",
+     "list": [
+      {
+       "title": "Day 1",
+       "singer": "HONNE",
+       "src": "HONNE - Day 1.mp3",
+       "img": "https://i.scdn.co/image/ab67616d00001e02210933bff4e6e68dc23472b0"
+      },
+      {
+       "title": "Me & You",
+       "singer": "HONNE",
+       "src": "HONNE - Me & You.mp3",
+       "img": "https://i.scdn.co/image/ab67616d00001e02210933bff4e6e68dc23472b0"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "my_playlist": [
+  {
+   "id": 1,
+   "title": "Summer Time",
+   "list": [
+    {
+     "title": "Mudah Saja",
+     "singer": "Sheila On 7",
+     "src": "Sheila On 7 - Mudah Saja.mp3",
+     "img": "https://i.scdn.co/image/ab67616d0000b27354270208627aa8061a8abe21"
+    },
+    {
+     "title": "Alexandra",
+     "singer": "Reality Club",
+     "src": "RealityClub-Alexandra.mp3",
+     "img": "https://i.scdn.co/image/ab67616d00001e02d5091532aed5342508c47a3b"
+    },
+    {
+     "title": "Kangen",
+     "singer": "Dewa 19",
+     "src": "Dewa 19 - Kangen.mp3",
+     "img": "https://i.scdn.co/image/72b816f7e8fe58802de79e6d8903f1ca035493c3"
+    }
+   ]
+  }
+ ],
+ "home_recommend": [
+  {
+   "id": 1,
+   "imgURL": "https://i.scdn.co/image/ab67616d00001e02ff874602e13e9181c26e5f01",
+   "title": "Best Friend",
+   "list": [
+    {
+     "title": "Best Friend",
+     "singer": "Rex Orange Country",
+     "src": "rex-best-friend.mp3",
+     "img": "https://media.kompas.tv/library/image/content_article/article_img/20221011054944.jpg"
+    },
+    {
+     "title": "Corduroy Dreams",
+     "singer": "Rex Orange Country",
+     "src": "rex-corduroy.mp3",
+     "img": "https://media.kompas.tv/library/image/content_article/article_img/20221011054944.jpg"
+    },
+    {
+     "title": "Untited",
+     "singer": "Rex Orange Country",
+     "src": "rex-corduroy.mp3",
+     "img": "https://media.kompas.tv/library/image/content_article/article_img/20221011054944.jpg"
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "imgURL": "https://i.scdn.co/image/ab67706f0000000226d8d726ba5840bd24e3c701",
+   "title": "Spill",
+   "list": [
+    {
+     "title": "Mudah Saja",
+     "singer": "Sheila On 7",
+     "src": "Sheila On 7 - Mudah Saja.mp3",
+     "img": "https://i.scdn.co/image/ab67616d0000b27354270208627aa8061a8abe21"
+    },
+    {
+     "title": "Alexandra",
+     "singer": "Reality Club",
+     "src": "RealityClub-Alexandra.mp3",
+     "img": "https://i.scdn.co/image/ab67616d00001e02d5091532aed5342508c47a3b"
+    },
+    {
+     "title": "Sial",
+     "singer": "Mahalini",
+     "src": "MAHALINI - SIAL.mp3",
+     "img": "https://i.scdn.co/image/ab6761610000e5ebb8333468abeb2e461d1ab5ea"
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "imgURL": "https://i.scdn.co/image/ab67616d00001e0222b392532bd082d33d74500b",
+   "title": "Mac Ayres",
+   "list": [
+    {
+     "title": "Easy",
+     "singer": "Mac Ayres",
+     "src": "Mac Ayres - Easy.mp3",
+     "img": "https://i.scdn.co/image/ab67616d0000b27322b392532bd082d33d74500b"
+    },
+    {
+     "title": "Slow Down",
+     "singer": "Mac Ayres",
+     "src": "Slow Down.mp3",
+     "img": "https://i.scdn.co/image/ab67616d0000b27322b392532bd082d33d74500b"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "imgURL": "https://thisis-images.scdn.co/37i9dQZF1DZ06evO2cV1FC-default.jpg",
+   "title": "This is Joji",
+   "list": [
+    {
+     "title": "Glimpse of Us",
+     "singer": "Joji",
+     "src": "Joji - Glimpse of Us.mp3",
+     "img": "https://i.scdn.co/image/ab67616d0000b27360ba1d6104d0475c7555a6b2"
+    },
+    {
+     "title": "SLOW DANCING IN THE DARK",
+     "singer": "Joji",
+     "src": "Joji - SLOW DANCING IN THE DARK.mp3",
+     "img": "https://i.scdn.co/image/ab67616d0000b27360ba1d6104d0475c7555a6b2"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "imgURL": "https://thisis-images.scdn.co/37i9dQZF1DZ06evO1X6Ic8-default.jpg",
+   "title": "This is The 1975",
+   "list": [
+    {
+     "title": "Be My Mistake",
+     "singer": "The 1975",
+     "src": "The 1975 - Be My Mistake (Acoustic).mp3",
+     "img": "https://i.scdn.co/image/ab6761610000e5eb89348336354096fd4e36ca73"
+    },
+    {
+     "title": "Paris",
+     "singer": "The 1975",
+     "src": "The 1975 - Paris.mp3",
+     "img": "https://i.scdn.co/image/ab6761610000e5eb89348336354096fd4e36ca73"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "imgURL": "https://i.scdn.co/image/ab67706f00000002ff70e5bf13de5ca23898f36a",
+   "title": "This is HONNE",
+   "list": [
+    {
+     "title": "Day 1",
+     "singer": "HONNE",
+     "src": "HONNE - Day 1.mp3",
+     "img": "https://i.scdn.co/image/ab67616d00001e02210933bff4e6e68dc23472b0"
+    },
+    {
+     "title": "Me & You",
+     "singer": "HONNE",
+     "src": "HONNE - Me & You.mp3",
+     "img": "https://i.scdn.co/image/ab67616d00001e02210933bff4e6e68dc23472b0"
+    }
+   ]
+  }
+ ],
+ "user": [
+  {
+   "id": 1,
+   "name": "test",
+   "email": "test@mail.com",
+   "password": "12345678",
+   "birthdate": "",
+   "gender": "Male"
+  },
+  {
+   "id": 2,
+   "name": "test2",
+   "email": "test2@mail.com",
+   "password": "12345678",
+   "birthdate": "",
+   "gender": "Female"
+  }
+ ]
+}

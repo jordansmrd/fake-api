@@ -1,0 +1,424 @@
+{
+ "users": [
+  {
+   "id": 1,
+   "username": "jordan.ongg",
+   "password": "password",
+   "name": "Jordan",
+   "email": "jordan@mail.com",
+   "avatar_url": "https://pbs.twimg.com/profile_images/859471909280509952/39YNKzZR_400x400.jpg"
+  },
+  {
+   "id": 2,
+   "email": "jordans@mail.com",
+   "username": "jordankeren",
+   "password": "Passowrd",
+   "name": "jordans"
+  },
+  {
+   "id": 3,
+   "email": "donisaputra@mail.com",
+   "username": "doni123",
+   "password": "Doni12345",
+   "name": "doni"
+  },
+  {
+   "id": 4,
+   "email": "something@gmail.com",
+   "username": "someone",
+   "password": "Someone",
+   "name": "someone"
+  },
+  {
+   "id": 5,
+   "email": "premiumappsdotid3@gmail.com",
+   "username": "rrrrrr",
+   "password": "Rrrrr",
+   "name": "rrr"
+  },
+  {
+   "id": 6,
+   "email": "account@gmail.com",
+   "username": "account",
+   "password": "Account",
+   "name": "account"
+  },
+  {
+   "id": 7,
+   "email": "qwerty@mail.com",
+   "username": "qwerty",
+   "password": "Qwerty",
+   "name": "qwerty"
+  },
+  {
+   "id": 8,
+   "email": "",
+   "username": "",
+   "password": "",
+   "name": ""
+  },
+  {
+   "id": 9,
+   "email": "",
+   "username": "",
+   "password": "",
+   "name": ""
+  }
+ ],
+ "products": [
+  {
+   "id": 1,
+   "product_name": "SSR MS3",
+   "img_url": [
+    "https://sr20.driftworks.com/media/catalog/product/cache/d51c85e004305c0d39cf9586ba8c5789/s/s/ssr-professor-ms3-close-up.jpg"
+   ],
+   "price": 33000000,
+   "location": "Batam",
+   "user": {
+    "username": "jordan.ongg",
+    "avatar_url": "https://pbs.twimg.com/profile_images/859471909280509952/39YNKzZR_400x400.jpg"
+   },
+   "condition": "Baru",
+   "type": "Original",
+   "ring": "19",
+   "pcd": "5x120",
+   "construction": "3-piece",
+   "madein": "Germany",
+   "front_et": "30",
+   "rear_et": "30",
+   "front_width": "9",
+   "rear_width": "10",
+   "status": "available"
+  },
+  {
+   "id": 2,
+   "product_name": "TE37",
+   "img_url": [
+    "https://images.fitmentindustries.com/web-compressed/1545227-9-2020-gr-supra-toyota-premium-air-lift-performance-air-suspension-volk-te37-ultra-black.jpg"
+   ],
+   "price": 43000000,
+   "location": "Batam",
+   "user": {
+    "username": "jordan.ongg",
+    "avatar_url": "https://pbs.twimg.com/profile_images/859471909280509952/39YNKzZR_400x400.jpg"
+   },
+   "condition": "Baru",
+   "type": "Original",
+   "ring": "19",
+   "pcd": "5x120",
+   "construction": "3-piece",
+   "madein": "Germany",
+   "front_et": "30",
+   "rear_et": "30",
+   "front_width": "9",
+   "rear_width": "10",
+   "status": "available"
+  },
+  {
+   "id": 3,
+   "product_name": "BBS LM",
+   "img_url": [
+    "https://images.tokopedia.net/img/cache/700/VqbcmM/2020/9/8/c410e65b-2db5-460f-8c7d-121a733f0c6f.jpg"
+   ],
+   "price": 53000000,
+   "location": "Batam",
+   "user": {
+    "username": "jordan.ongg",
+    "avatar_url": "https://pbs.twimg.com/profile_images/859471909280509952/39YNKzZR_400x400.jpg"
+   },
+   "condition": "Baru",
+   "type": "Original",
+   "ring": "19",
+   "pcd": "5x120",
+   "construction": "3-piece",
+   "madein": "Germany",
+   "front_et": "30",
+   "rear_et": "30",
+   "front_width": "9",
+   "rear_width": "10",
+   "status": "available"
+  },
+  {
+   "id": 4,
+   "product_name": "BBS LMR",
+   "img_url": [
+    "https://s.yimg.com/aah/wheelsperformancecom/red-bmw-m3-f80-bbs-lm-r-multi-piece-forged-wheels-13.gif"
+   ],
+   "price": 23000000,
+   "location": "Batam",
+   "user": {
+    "username": "jordan.ongg",
+    "avatar_url": "https://pbs.twimg.com/profile_images/859471909280509952/39YNKzZR_400x400.jpg"
+   },
+   "condition": "Baru",
+   "type": "Original",
+   "ring": "19",
+   "pcd": "5x120",
+   "construction": "3-piece",
+   "madein": "Germany",
+   "front_et": "30",
+   "rear_et": "30",
+   "front_width": "9",
+   "rear_width": "10",
+   "status": "available"
+  },
+  {
+   "id": 5,
+   "product_name": "SSR SP1",
+   "img_url": [
+    "https://cdn.shopify.com/s/files/1/0459/0478/9656/products/2_f04fa5f4-d0ca-4bfe-9363-7d794b9922c4_1024x1024@2x.jpg?v=1653275394"
+   ],
+   "price": 83000000,
+   "location": "Batam",
+   "user": {
+    "username": "jordan.ongg",
+    "avatar_url": "https://pbs.twimg.com/profile_images/859471909280509952/39YNKzZR_400x400.jpg"
+   },
+   "condition": "Baru",
+   "type": "Original",
+   "ring": "19",
+   "pcd": "5x120",
+   "construction": "3-piece",
+   "madein": "Germany",
+   "front_et": "30",
+   "rear_et": "30",
+   "front_width": "9",
+   "rear_width": "10",
+   "status": "available"
+  },
+  {
+   "id": 6,
+   "product_name": "BBS RS02",
+   "img_url": [
+    "https://img.ebay-kleinanzeigen.de/api/v1/prod-ads/images/b6/b6dcc6d2-c580-4956-bdf1-c84c78739207?rule=$_20.JPG"
+   ],
+   "price": 53000000,
+   "location": "Batam",
+   "user": {
+    "username": "jordan.ongg",
+    "avatar_url": "https://pbs.twimg.com/profile_images/859471909280509952/39YNKzZR_400x400.jpg"
+   },
+   "condition": "Baru",
+   "type": "Original",
+   "ring": "19",
+   "pcd": "5x120",
+   "construction": "3-piece",
+   "madein": "Germany",
+   "front_et": "30",
+   "rear_et": "30",
+   "front_width": "9",
+   "rear_width": "10",
+   "status": "available"
+  },
+  {
+   "id": 7,
+   "product_name": "TE37 BRONZE",
+   "img_url": [
+    "data:image/jpeg;base64,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"
+   ],
+   "price": 30000000,
+   "location": "BSD",
+   "description": "TE37 BRONZE ORIGINAL",
+   "user": {
+    "username": "jordan.ongg"
+   },
+   "condition": "",
+   "type": "",
+   "ring": "",
+   "pcd": "",
+   "construction": "",
+   "madein": "",
+   "front_et": "9",
+   "rear_et": "8",
+   "front_width": "",
+   "rear_width": "",
+   "status": "available",
+   "car": "BMW",
+   "velg": "Bronze"
+  },
+  {
+   "id": 8,
+   "product_name": "SSR SP1 ",
+   "img_url": [
+    "https://s.kaskus.id/c480x480/images/fjb/2018/05/13/jual_velg_ssr_professor_sp1_r18_x_8___9_original_japan_509215_1526183984.JPG"
+   ],
+   "price": 22000000,
+   "car": "Honda Jazz",
+   "color": "",
+   "location": "jakarta",
+   "description": "velg ssr sp1 ring 18 ori",
+   "user": {
+    "username": "jordan.ongg"
+   },
+   "condition": "Bekas",
+   "type": "ORIGINAL",
+   "ring": "18",
+   "pcd": "4X100",
+   "construction": "",
+   "madein": "Japan",
+   "front_et": "30",
+   "rear_et": "30",
+   "front_width": "8",
+   "rear_width": "8",
+   "status": "available",
+   "velg": "putih",
+   "contruction": "1-piece"
+  },
+  {
+   "id": 9,
+   "product_name": "BBS RS02",
+   "img_url": [
+    "https://steamuserimages-a.akamaihd.net/ugc/94980958207509693/8E9F27C9868187D22E442DC1B239F53F55CF2CB1/?imw=1024&imh=768&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+    "https://steamuserimages-a.akamaihd.net/ugc/94980958207509693/8E9F27C9868187D22E442DC1B239F53F55CF2CB1/?imw=1024&imh=768&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
+   ],
+   "price": 40000000,
+   "car": "bmw",
+   "color": "brushed",
+   "location": "bsd",
+   "description": "",
+   "user": {
+    "username": "jordan.ongg"
+   },
+   "condition": "Bekas",
+   "type": "ORIGINAL",
+   "ring": "17",
+   "pcd": "5x120",
+   "construction": "3-piece",
+   "madein": "Germany",
+   "front_et": "35",
+   "rear_et": "35",
+   "front_width": "8.5",
+   "rear_width": "9.5",
+   "status": "available"
+  },
+  {
+   "id": 10,
+   "product_name": "BBS RS 02",
+   "img_url": [
+    "https://steamuserimages-a.akamaihd.net/ugc/94980958207509693/8E9F27C9868187D22E442DC1B239F53F55CF2CB1/?imw=1024&imh=768&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
+   ],
+   "price": 999999999,
+   "car": "jaguar",
+   "color": "brushed",
+   "location": "palembang",
+   "description": "",
+   "user": {
+    "username": "jordan.ongg"
+   },
+   "condition": "Baru",
+   "type": "ORIGINAL",
+   "ring": "26",
+   "pcd": "6X139,7",
+   "construction": "2-piece",
+   "madein": "Thailand",
+   "front_et": "31",
+   "rear_et": "31",
+   "front_width": "5.5",
+   "rear_width": "10.5",
+   "status": "available"
+  },
+  {
+   "id": 11,
+   "product_name": "TE 37 Bronze",
+   "img_url": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOXTgiCnu48qgKxg2mERcqmrohe4W6Ns7YPw&usqp=CAU"
+   ],
+   "price": 5500000,
+   "car": "innova",
+   "color": "Bronze",
+   "location": "tangerang ",
+   "description": "rep te37 ",
+   "user": {
+    "username": "jordan.ongg",
+    "avatar_url": "https://pbs.twimg.com/profile_images/859471909280509952/39YNKzZR_400x400.jpg"
+   },
+   "condition": "Bekas",
+   "type": "REPLIKA",
+   "ring": "17",
+   "pcd": "5X114,3",
+   "construction": "1-piece",
+   "madein": "Thailand",
+   "front_et": "40",
+   "rear_et": "40",
+   "front_width": "8.5",
+   "rear_width": "8.5",
+   "status": "available"
+  },
+  {
+   "id": 12,
+   "product_name": "Velg 1",
+   "img_url": [
+    "https://images.tokopedia.net/img/cache/500-square/product-1/2019/12/13/21249751/21249751_c561ff94-ef2d-4c3f-b6ac-c54dac492d0f_800_800",
+    "https://images.tokopedia.net/img/cache/500-square/product-1/2019/12/13/21249751/21249751_c561ff94-ef2d-4c3f-b6ac-c54dac492d0f_800_800",
+    "https://images.tokopedia.net/img/cache/500-square/product-1/2019/12/13/21249751/21249751_c561ff94-ef2d-4c3f-b6ac-c54dac492d0f_800_800",
+    "https://images.tokopedia.net/img/cache/500-square/product-1/2019/12/13/21249751/21249751_c561ff94-ef2d-4c3f-b6ac-c54dac492d0f_800_800"
+   ],
+   "price": 400000,
+   "car": "sada",
+   "color": "sdsds",
+   "location": "sdsdsdsd",
+   "description": "sdsdsdsd",
+   "user": {
+    "username": "rrrrrr"
+   },
+   "condition": "Baru",
+   "type": "ORIGINAL",
+   "ring": "10",
+   "pcd": "3X112",
+   "construction": "3-piece",
+   "madein": "Indonesia",
+   "front_et": "21",
+   "rear_et": "23",
+   "front_width": "6",
+   "rear_width": "5.5",
+   "status": "available"
+  }
+ ],
+ "ring_type": [
+  10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28,
+  29, 30, 31, 32
+ ],
+ "pcd_type": [
+  "3X100",
+  "3X112",
+  "4X98",
+  "4X100",
+  "4X108",
+  "4X114,3",
+  "5X100",
+  "5X105",
+  "5X108",
+  "5X110",
+  "5X112",
+  "5X114,3",
+  "5x120",
+  "5X127",
+  "5X130",
+  "5X139,7",
+  "5X150",
+  "5X165,1",
+  "6X114,3",
+  "6X130",
+  "6X139,7"
+ ],
+ "velg_width": [
+  4,
+  4.5,
+  5.5,
+  6,
+  6.5,
+  7,
+  7.5,
+  8,
+  8.5,
+  9,
+  9.5,
+  10,
+  10.5,
+  11,
+  11.5,
+  12,
+  ">12"
+ ],
+ "nations": ["Indonesia", "Thailand", "Japan", "Germany", "Swedia"]
+}
